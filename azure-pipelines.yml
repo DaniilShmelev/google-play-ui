@@ -2,3 +2,7 @@ trigger: none
 
 steps:
 - task: DSGooglePlayRelease@4
+  inputs:
+    applicationId: 1
+    action: 'invalid'
+    track: 'internal'
