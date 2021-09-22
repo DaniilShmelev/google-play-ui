@@ -2,4 +2,3 @@ trigger: none
 
 steps:
 - task: DSGooglePlayRelease@4
-- task: DSDSInputsTest@4
